@@ -41,7 +41,7 @@ def recommend(movie):
 
 
 # UI
-st.title("🎬 Movie Recommendation System")
+st.title("Movie Recommendation System")
 
 # Select movie
 selected_movie = st.selectbox(
